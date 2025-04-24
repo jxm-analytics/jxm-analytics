@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I’m Jake Ma
 
-<!--
-**Jake-991/Jake-991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I’m a data analyst and project coordinator based in Toronto.  
+📊 I build dashboards, analyze trends, and drive better business decisions using data.  
+🛠️ Tools: Power BI, SQL, R, Excel, Tableau  
+🔍 Currently open to roles in data analysis or operations coordination.
 
-Here are some ideas to get you started:
+## 🔧 Projects
+- 🏙️ [Metrolinx Asset Strategy](https://github.com/Jake-991/metrolinx-asset-strategy-case) – Real estate ROI scoring with Power BI + DAX
+- 🚲 [Cyclistic Usage Analysis](https://github.com/Jake-991/cyclistic-bike-usage-analysis) – Rider behavior insights for marketing
+- 🌿 [Bellabeat Capstone](https://github.com/Jake-991/bella-beat-project) – Health tracking behavior via smart device data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jake-ma-0a4278282/)
