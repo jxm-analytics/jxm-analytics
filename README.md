@@ -2,7 +2,7 @@
 
 💼 I’m a data analyst and project coordinator based in Toronto.  
 📊 I build dashboards, analyze trends, and drive better business decisions using data.  
-🛠️ Tools: Power BI, SQL, R, Excel, Tableau  
+🛠️ Tools: Power BI, SQL, Excel, Tableau  
 🔍 Currently open to roles in data analysis or operations coordination.
 
 ## 🔧 Projects
