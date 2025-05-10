@@ -5,9 +5,25 @@
 🛠️ Tools: Power BI, SQL, Excel, Tableau  
 🔍 Currently open to roles in data analysis or operations coordination.
 
-## 🔧 Projects
-- 🏙️ [Metrolinx Asset Strategy](https://github.com/Jake-991/metrolinx-asset-strategy-case) – Real estate ROI scoring with Power BI + DAX
-- 🚲 [Cyclistic Usage Analysis](https://github.com/Jake-991/cyclistic-bike-usage-analysis) – Rider behavior insights for marketing
-- 🌿 [Bellabeat Capstone](https://github.com/Jake-991/bella-beat-project) – Health tracking behavior via smart device data
+---
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jake-ma-0a4278282/)
+## 🔧 Featured Projects
+  
+- 🛍️ [Retail Data Insights](https://github.com/Jake-991/retail-data-insights-sql-powerbi)  
+  Store and product performance tracking using SQL + Power BI dashboard.
+
+- 🏙️ [Metrolinx Asset Strategy](https://github.com/Jake-991/metrolinx-asset-strategy-case)  
+  Real estate ROI scoring and portfolio classification using Power BI + DAX.
+
+- 🌿 [Bellabeat Capstone](https://github.com/Jake-991/bella-beat-project)  
+  Analysis of fitness tracker usage trends to guide product marketing.
+
+- 🚲 [Cyclistic Usage Analysis](https://github.com/Jake-991/cyclistic-bike-usage-analysis)  
+  Behavioral clustering of riders to inform marketing strategy using SQL and Excel.
+
+
+
+
+---
+
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/jake-ma-0a4278282/)
