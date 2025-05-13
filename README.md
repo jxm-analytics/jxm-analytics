@@ -1,28 +1,28 @@
 # 👋 Hi, I’m Jake Ma
 
 💼 I’m a data analyst and project coordinator based in Toronto.  
-📊 I build dashboards, analyze trends, and drive better business decisions using data.  
+📊 I build dashboards, analyze trends, and help teams make smarter business decisions using data.  
 🛠️ Tools: Power BI, SQL, Excel, Tableau  
 🔍 Currently open to roles in data analysis or operations coordination.
 
 ---
 
 ## 🔧 Featured Projects
-  
+
+- 🧠 [Customer Segmentation (RFM Analysis)](https://github.com/Jake-991/rfm-customer-segmentation)  
+  Cleaned retail transaction data, scored customers using SQL + NTILE, and built a Power BI dashboard to visualize segment performance.
+
 - 🛍️ [Retail Data Insights](https://github.com/Jake-991/retail-data-insights-sql-powerbi)  
-  Store and product performance tracking using SQL + Power BI dashboard.
+  Product and store-level performance tracking using SQL + Power BI.
 
 - 🏙️ [Metrolinx Asset Strategy](https://github.com/Jake-991/metrolinx-asset-strategy-case)  
-  Real estate ROI scoring and portfolio classification using Power BI + DAX.
+  Real estate ROI scoring and portfolio recommendations built in Power BI using custom DAX logic.
 
 - 🌿 [Bellabeat Capstone](https://github.com/Jake-991/bella-beat-project)  
-  Analysis of fitness tracker usage trends to guide product marketing.
+  Usage pattern analysis of fitness trackers to guide product marketing.
 
 - 🚲 [Cyclistic Usage Analysis](https://github.com/Jake-991/cyclistic-bike-usage-analysis)  
-  Behavioral clustering of riders to inform marketing strategy using SQL and Excel.
-
-
-
+  Behavioral segmentation of riders using SQL and Excel to support marketing strategy.
 
 ---
 
