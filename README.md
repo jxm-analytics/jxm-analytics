@@ -10,21 +10,19 @@ I’m a data analyst and operations coordinator based in Toronto.
 
 📌 Currently open to roles in data analysis or operations coordination.
 
-## 🔧 Featured Projects
-
-- 🧠 [Customer Segmentation (RFM Analysis)](link)  
+- 🧠 [Customer Segmentation (RFM Analysis)](https://github.com/jxm-analytics/rfm-customer-segmentation)  
   Cleaned retail transaction data, scored customers using SQL + NTILE, and built a Power BI dashboard to visualize segment performance.
 
-- 🛒 [Retail Data Insights](link)  
+- 🛍️ [Retail Data Insights](https://github.com/jxm-analytics/retail-data-insights-sql-powerbi)  
   Product and store-level performance tracking using SQL + Power BI.
 
-- 🏢 [Public Sector Asset Strategy](link)  
+- 🏢 [Public Sector Asset Strategy](https://github.com/jxm-analytics/metrolinx-asset-strategy-case)  
   Real estate portfolio analysis using DAX and Power BI — identified investment priorities by ROI, CapEx, and tenant sentiment.
 
-- 🌿 [Bellabeat Capstone](link)  
+- 🌿 [Bellabeat Capstone](https://github.com/jxm-analytics/bellabeat-project)  
   Usage pattern analysis of fitness trackers to guide product marketing.
 
-- 🚴 [Cyclictic Usage Analysis](link)  
+- 🚴 [Cyclictic Usage Analysis](https://github.com/jxm-analytics/cyclictic-bike-usage-analysis)  
   Behavioral segmentation of riders using SQL and Excel to support marketing strategy.
 
-📨 Connect with me on [LinkedIn](https://www.linkedin.com/in/jakexm-analytics/)
+📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/jakexm-analytics/)
