@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Jake X. Ma - Data Analyst Banner" width="100%" />
+  <img src="./banner.png" alt="Jake Ma - Data Analyst Banner" width="100%" />
 </p>
 👋 Hi, I’m Jake X. Ma
 I’m a data analyst and operations coordinator based in Toronto.
