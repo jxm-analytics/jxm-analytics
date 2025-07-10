@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./banner.png" alt="Jake Ma - Data Analyst Banner" width="100%" />
 </p>
-# 👋 Hi, I’m Jake Ma
+👋 Hi, I’m Jake Ma
 I’m a data analyst and operations coordinator based in Toronto.
 
 💼 I build dashboards, analyze trends, and help teams make smarter business decisions using data.
@@ -27,4 +27,4 @@ I’m a data analyst and operations coordinator based in Toronto.
 - 🚴 [Cyclictic Usage Analysis](link)  
   Behavioral segmentation of riders using SQL and Excel to support marketing strategy.
 
-📨 Connect with me on [LinkedIn]((https://www.linkedin.com/in/jakexm-analytics/))
+📨 Connect with me on [LinkedIn](https://www.linkedin.com/in/jakexm-analytics/)
