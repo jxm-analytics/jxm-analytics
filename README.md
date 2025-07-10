@@ -25,4 +25,6 @@ I’m a data analyst and operations coordinator based in Toronto.
 - 🚴 [Cyclictic Usage Analysis](https://github.com/jxm-analytics/cyclictic-bike-usage-analysis)  
   Behavioral segmentation of riders using SQL and Excel to support marketing strategy.
 
+- 📊 Tableau Portfolio: [public.tableau.com/jxmanalytics/vizzes](https://public.tableau.com/app/profile/jxmanalytics/vizzes)
+
 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/jakexm-analytics/)
