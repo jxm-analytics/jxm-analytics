@@ -16,7 +16,7 @@ I’m a data analyst and operations coordinator based in Toronto.
 - 🛍️ [Retail Data Insights](https://github.com/jxm-analytics/retail-data-insights-sql-powerbi)  
   Product and store-level performance tracking using SQL + Power BI.
 
-- 🏢 [Public Sector Asset Strategy](https://github.com/jxm-analytics/metrolinx-asset-strategy-case)  
+- 🏢 [Metrolinx Asset Strategy](https://github.com/jxm-analytics/metrolinx-asset-strategy-case)  
   Real estate portfolio analysis using DAX and Power BI — identified investment priorities by ROI, CapEx, and tenant sentiment.
 
 - 🌿 [Bellabeat Capstone](https://github.com/jxm-analytics/bellabeat-project)  
