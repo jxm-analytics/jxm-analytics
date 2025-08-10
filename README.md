@@ -39,7 +39,7 @@ I'm a **Data Analyst & Operations Coordinator** based in Toronto — passionate 
 - 🌿 [**Bellabeat Capstone**](https://github.com/jxm-analytics/bellabeat-project)  
   Fitness tracker usage analysis using Python + Excel. Final capstone project from Google Data Analytics program.
 
-- 🚴 [**Cyclistic Bike Usage Analysis**](https://github.com/jxm-analytics/cyclictic-bike-usage-analysis)  
+- 🚴 [**Cyclistic Bike Usage Analysis**](https://github.com/jxm-analytics/cyclistic-bike-usage-analysis)  
   Rider behavior and subscription patterns analyzed using SQL + Excel to support marketing strategy.
 
 ---
