@@ -1,59 +1,98 @@
 <p align="center">
-  <img src="./banner.png" alt="Jake Ma - Data Analyst Banner" width="100%" />
+  <img src="./banner.png" alt="Jake Ma - Project & Infrastructure Analytics" width="100%" />
 </p>
-# 👋 Hi, I’m Jake X. Ma
 
-I'm a **Data Analyst & Operations Coordinator** based in Toronto — passionate about using data to solve real business problems.
+# Jake X. Ma
 
----
+**Project Operations & Infrastructure Analytics Professional**  
+Toronto, Canada  
 
-## 💼 What I Do
+I support complex projects by delivering structured analysis, operational visibility, and decision-ready reporting that help organizations execute with clarity and confidence.
 
-- Analyze trends, track KPIs, and uncover operational insights  
-- Build dashboards and data models that drive smarter decisions  
-- Bridge business logic with technical execution using SQL, DAX, Power BI, and Excel  
+With experience spanning transit infrastructure, capital initiatives, and operational analytics, I specialize in transforming raw data into practical insight — strengthening project performance, improving cost visibility, and enabling informed leadership decisions.
 
----
-
-## 🛠️ Tools & Skills
-
-**SQL** • **Power BI** • **Excel** • **DAX** • **Tableau**  
-+ Data cleaning, stakeholder reporting, process improvement
+My work sits at the intersection of **projects, operations, and analytics**, where disciplined execution and data-driven strategy directly influence real-world outcomes.
 
 ---
 
-## 📌 Featured Projects
+## What I Focus On
 
-- 🧠 [**Customer Segmentation (RFM Analysis)**](https://github.com/jxm-analytics/rfm-customer-segmentation)  
-  Identified customer value tiers using SQL (NTILE) and Power BI. Segmentation used to drive targeting and retention strategy.
-
-- 🛍️ [**Retail Data Insights**](https://github.com/jxm-analytics/retail-data-insights-sql-powerbi)  
-  Cleaned and analyzed product and store-level sales data using SQL + Power BI to monitor performance and inform restocking.
-
-- 🏢 [**Public Asset Strategy**](https://github.com/jxm-analytics/metrolinx-asset-strategy-case)  
-  Modeled real estate ROI, CapEx, and satisfaction metrics for a major Ontario transit agency. Built investment recommendations in Power BI.
-
-- 🏙️ [**Toronto Budget Tracker**](https://github.com/jxm-analytics/toronto-budget-tracker-powerbi)  
-  Variance analysis and sub-project monitoring across City of Toronto’s 2022–2024 budgets. Created public finance dashboard in Power BI.
-
-- 🌿 [**Bellabeat Capstone**](https://github.com/jxm-analytics/bellabeat-project)  
-  Fitness tracker usage analysis using Python + Excel. Final capstone project from Google Data Analytics program.
-
-- 🚴 [**Cyclistic Bike Usage Analysis**](https://github.com/jxm-analytics/cyclistic-bike-usage-analysis)  
-  Rider behavior and subscription patterns analyzed using SQL + Excel to support marketing strategy.
+• Project and operational analytics  
+• Infrastructure and capital program support  
+• Cost, budget, and performance visibility  
+• Executive-ready dashboards and reporting  
+• Data modeling for strategic decision support  
+• Process improvement within complex stakeholder environments  
 
 ---
 
-## 📊 Tableau Portfolio
+## Core Tools
 
-Explore more visualizations:  
-🔗 [public.tableau.com/jxmanalytics/vizzes](https://public.tableau.com/app/profile/jxmanalytics/vizzes)
+**SQL • Power BI • Excel • DAX • Tableau**
+
+(Technology is the toolkit — operational impact is always the objective.)
 
 ---
 
-## 📄 Let’s Connect
+## Featured Projects
 
-📍 Toronto, Canada  
-🔗 [LinkedIn – Jake X. Ma](https://www.linkedin.com/in/jakexm-analytics/)
+### Public Asset Strategy  
+**Infrastructure Investment & Portfolio Analytics**
 
-**Open to roles in data analysis and operations coordination.**
+Modeled ROI, CapEx, and asset performance for a major Ontario transit-related portfolio. Developed a decision-support dashboard to guide investment prioritization and long-term asset strategy.
+
+👉 https://github.com/jxm-analytics/Public-asset-strategy-case
+
+---
+
+### Toronto Budget Tracker  
+**Capital Planning & Variance Analysis**
+
+Analyzed multi-year municipal budget data to identify spending trends, cost variances, and sub-project performance. Built an executive-style dashboard to enhance financial transparency.
+
+👉 https://github.com/jxm-analytics/toronto-budget-tracker-powerbi
+
+---
+
+### Retail Performance Analytics  
+**Operational Intelligence | SQL + Power BI**
+
+Designed a reporting solution to evaluate product and store-level performance, supporting inventory awareness and data-informed operational planning.
+
+👉 https://github.com/jxm-analytics/retail-data-insights-sql-powerbi
+
+---
+
+### Customer Segmentation (RFM)  
+**Behavioral Analytics for Strategic Targeting**
+
+Applied NTILE-based segmentation to identify high-value customers and inform retention strategy through structured data modeling.
+
+👉 https://github.com/jxm-analytics/rfm-customer-segmentation
+
+---
+
+## Visualization Portfolio
+
+Tableau dashboards:  
+https://public.tableau.com/app/profile/jxmanalytics/vizzes
+
+---
+
+## Professional Direction
+
+Focused on opportunities within:
+
+• Infrastructure  
+• Capital projects  
+• Operational analytics  
+• Project-driven organizations  
+
+Where analytical rigor supports disciplined execution.
+
+---
+
+## Connect
+
+LinkedIn:  
+https://www.linkedin.com/in/jakexm-analytics/
